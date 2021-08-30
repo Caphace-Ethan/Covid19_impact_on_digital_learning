@@ -1,2 +1,2 @@
-# Covid19_impact_on_digital_learning
+# Covid19 Impact on digital learning
 Learnplatform covid-19 impact on digital learning
