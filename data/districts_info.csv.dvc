@@ -1,0 +1,4 @@
+outs:
+- md5: b810b550d909b673b8ade1763d597c4a
+  size: 13560
+  path: districts_info.csv
